@@ -1,6 +1,5 @@
 # Cybersecurity News Bot 🤖
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Power Platform](https://img.shields.io/badge/Platform-Microsoft%20Power%20Platform-0078D4?logo=microsoft&logoColor=white)](https://powerplatform.microsoft.com/)
 [![Status](https://img.shields.io/badge/Status-Production-success)](https://github.com)
 
