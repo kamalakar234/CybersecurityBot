@@ -295,24 +295,7 @@ Quarterly:
 ## 📁 Repository Structure
 
 ```
-cybersecurity-news-bot/
-├── README.md                    # This file
-├── LICENSE                      # MIT License
-├── docs/
-│   ├── Cybersecurity_News_Bot_Documentation.docx
-│   ├── DEPLOYMENT_GUIDE.md
-│   ├── ARCHITECTURE.md
-│   ├── TROUBLESHOOTING.md
-│   └── CONFIGURATION.md
-├── screenshots/                 # Visual documentation
-│   ├── power-automate-flow.png
-│   ├── approval-workflow.png
-│   └── email-template.png
-├── flow-export/                 # Power Automate flow exports
-│   └── Send-email-02.json
-└── agent-config/               # Agent configuration
-    ├── agent-settings.md
-    └── capabilities.md
+
 ```
 
 ---
