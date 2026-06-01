@@ -408,7 +408,7 @@ Interested in contributing or have suggestions?
 
 **Made with ❤️ using Microsoft Power Platform**
 
-Last Updated: [Current Date]  
+Last Updated: 04/25/2026
 Repository: https://github.com/kamalakar-cheviti/cybersecurity-news-bot  
 Developer: Kamalakar Cheviti (chevitikamalakar234@gmail.com)  
 Status: Active & Maintained ✅
